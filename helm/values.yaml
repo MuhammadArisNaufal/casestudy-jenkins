@@ -2,3 +2,4 @@ image:
   repository: ariskun/demo-app
   tag: latest
 replicaCount: 1
+
