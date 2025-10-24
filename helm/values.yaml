@@ -3,3 +3,5 @@ image:
   tag: latest
 replicaCount: 1
 
+imagePullSecrets:
+  - name: docker-hub-secret
