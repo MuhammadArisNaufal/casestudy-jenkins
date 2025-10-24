@@ -1,7 +1,3 @@
-
-imagePullSecrets:
-  - name: docker-hub-secret
-
 image:
   repository: ariskun/demo-app
   tag: latest
